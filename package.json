@@ -1,0 +1,23 @@
+{
+  "name": "ternopil",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "static-server -p 8080 ."
+  },
+  "author": "Taras Labiak <kissarat@gmail.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ternopil/ternopil.github.io.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ternopil/ternopil.github.io/issues"
+  },
+  "homepage": "https://github.com/ternopil/ternopil.github.io#readme",
+  "description": "",
+  "devDependencies": {
+    "static-server": "^2.2.1"
+  }
+}
